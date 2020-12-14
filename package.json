@@ -6,7 +6,7 @@
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/techthatmatters/02thcbin-flutter"
+		"url": "https://github.com/techthatmatters/flutter-extension-thcbin"
 	},
 	"engines": {
 		"vscode": "^1.26.0"
