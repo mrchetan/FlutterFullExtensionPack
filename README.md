@@ -4,6 +4,8 @@ A Recommended collection for Flutter development on VS Code by Chetan Bhalothia.
 
 VS Code extension pack help to create a your Flutter app using Dart code.
 
+You not need to install all extensions one by one just this extension pack for Flutter development.
+
 This Extension combination of 2 Extensions [THCBin Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.02thcbin-flutter), [THCBin Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.00thcbin-recommended)
 
 ## Included
@@ -63,6 +65,10 @@ This extension pack includes the following extensions:
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
 
 * [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display pdf file in VSCode..
+
+* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code.
+
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 
 <br>
 

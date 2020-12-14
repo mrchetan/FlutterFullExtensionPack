@@ -2,7 +2,7 @@
 	"name": "flutter-extension-thcbin",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "1.0.0",
+	"version": "1.1.1",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -63,7 +63,9 @@
         "jock.svg", 
         "SimonSiefke.svg-preview", 
         "VisualStudioExptTeam.vscodeintellicode",
-        "tomoki1207.pdf"
+        "tomoki1207.pdf", 
+        "Equinusocio.vsc-material-theme", 
+        "PKief.material-icon-theme"
 	]
 
 }
