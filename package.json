@@ -1,0 +1,69 @@
+{
+	"name": "flutter-extension-thcbin",
+	"displayName": "Flutter Extension Pack",
+	"description": "A collection of extensions for Flutter App development using Dart",
+	"version": "1.0.1",
+	"publisher": "techthatmatters",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/techthatmatters/02thcbin-flutter"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#374756",
+		"theme": "dark"
+	},
+	"categories": [
+		"Extension Packs",
+		"Programming Languages",
+		"Snippets",
+		"Other"
+	],
+	"keywords": [
+		"flutter",
+		"flutter Programming",
+		"flutter Coding",
+		"dart",
+		"dart Languages",
+		"widgets",
+		"app",
+		"android",
+		"ios",
+		"snippet",
+		"Snippets",
+		"mobile"
+	],
+	"extensionPack": [
+		"Dart-Code.dart-code", 
+        "Dart-Code.flutter", 
+        "Nash.awesome-flutter-snippets",
+        "circlecodesolution.ccs-flutter-color", 
+        "aksharpatel47.vscode-flutter-helper", 
+		"madhukesh040011.flutter-mvvm-architecture-generator", 
+        "marcelovelasquez.flutter-tree", 
+		"alexisvt.flutter-snippets", 
+		"jeroen-meijer.pubspec-assist", 
+		"everettjf.pubspec-dependency-search", 
+		"gruntfuggly.todo-tree", 
+		"redhat.vscode-yaml",
+		"formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag", 
+		"aaron-bond.better-comments", 
+        "coenraads.bracket-pair-colorizer-2", 
+        "pranaygp.vscode-css-peek", 
+        "usernamehw.errorlens", 
+        "mhutchie.git-graph", 
+        "ritwickdey.LiveServer", 
+        "esbenp.prettier-vscode", 
+        "humao.rest-client", 
+        "moyu.snapcode", 
+        "jock.svg", 
+        "SimonSiefke.svg-preview", 
+        "VisualStudioExptTeam.vscodeintellicode",
+        "tomoki1207.pdf"
+	]
+
+}
