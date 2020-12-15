@@ -1,4 +1,4 @@
-## Laravel development Extension Pack by Chetan Bhalothia
+## Flutter development Extension Pack by Chetan Bhalothia
 
 A Recommended collection for Flutter development on VS Code by Chetan Bhalothia.
 
@@ -72,7 +72,7 @@ This extension pack includes the following extensions:
 
 <br>
 
-### Recommended Software for Laravel development
+### Recommended Software for Flutter development
 
 * [Git](https://git-scm.com/)
 * [GitHub Desktop](https://desktop.github.com/)
