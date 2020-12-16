@@ -28,6 +28,8 @@ This extension pack includes the following extensions:
 
 * [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets) - A set of helpful widget snippets for day to day Flutter development.
 
+* [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=bendixma.dart-data-class-generator) - Create dart data classes easily, fast and without writing boilerplate or running code generation.
+
 * [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) - Easily add and update dependencies to your Dart and Flutter project.
 
 * [Pubspec Dependency Search](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search) - Easy search dependency name in dart packages site for flutter developers.

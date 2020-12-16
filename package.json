@@ -2,7 +2,7 @@
 	"name": "flutter-extension-thcbin",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "1.1.3",
+	"version": "1.2.0",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -45,6 +45,7 @@
 		"madhukesh040011.flutter-mvvm-architecture-generator", 
         "marcelovelasquez.flutter-tree", 
 		"alexisvt.flutter-snippets", 
+		"bendixma.dart-data-class-generator", 
 		"jeroen-meijer.pubspec-assist", 
 		"everettjf.pubspec-dependency-search", 
 		"gruntfuggly.todo-tree", 
