@@ -8,7 +8,17 @@ You not need to install all extensions one by one just this extension pack for F
 
 This Extension combination of 2 Extensions [THCBin Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.02thcbin-flutter), [THCBin Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.00thcbin-recommended)
 
-## Included
+
+---
+
+# Installation
+
+- Open VS Code and click on Extensions Icon in the Activity Bar.
+- Type **flutter-extension-thcbin**
+- Install the Extension Pack.
+---
+
+## Included Extensions
 
 This extension pack includes the following extensions:
 
@@ -17,6 +27,8 @@ This extension pack includes the following extensions:
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - Flutter support and debugger for Visual Studio Code.
 
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
+
+* [bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) - Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.
 
 * [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - This plugin help you to easily visualize the color.
 
@@ -97,3 +109,5 @@ This extension pack includes the following extensions:
 
 **Enjoy Chetan's Extension Pack!**
 
+## License
+<a href="https://github.com/techthatmatters/flutter-extension-thcbin/blob/master/LICENSE">Click here</a>

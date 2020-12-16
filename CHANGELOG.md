@@ -22,3 +22,7 @@
 ## [1.2.0]
 
 - Add extensions (Dart Data Class Generator)
+
+## [1.3.0]
+
+- Add extensions (bloc)
