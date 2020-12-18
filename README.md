@@ -1,4 +1,4 @@
-## Flutter development Extension Pack by Chetan Bhalothia
+## Flutter Extension Pack by Chetan Bhalothia
 
 A Recommended collection for Flutter development on VS Code by Chetan Bhalothia.
 
@@ -6,7 +6,7 @@ VS Code extension pack help to create a your Flutter app using Dart code.
 
 You not need to install all extensions one by one just this extension pack for Flutter development.
 
-This Extension combination of 2 Extensions [THCBin Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.02thcbin-flutter), [THCBin Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.00thcbin-recommended)
+This Extension combination of 2 Extension Pack [THCBin Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.02thcbin-flutter), [THCBin Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.00thcbin-recommended)
 
 
 ---
@@ -30,7 +30,11 @@ This extension pack includes the following extensions:
 
 * [bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) - Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.
 
+* [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
+
 * [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - This plugin help you to easily visualize the color.
+
+- [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quickly scaffold flutter bloc file templates.
 
 * [Flutter Helpers](https://marketplace.visualstudio.com/items?itemName=aksharpatel47.vscode-flutter-helper) - Helper utilities for flutter projects.
 
@@ -41,6 +45,10 @@ This extension pack includes the following extensions:
 * [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets) - A set of helpful widget snippets for day to day Flutter development.
 
 * [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=bendixma.dart-data-class-generator) - Create dart data classes easily, fast and without writing boilerplate or running code generation.
+
+* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+
+* [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request and Issue Provider for GitHub.
 
 * [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) - Easily add and update dependencies to your Dart and Flutter project.
 
