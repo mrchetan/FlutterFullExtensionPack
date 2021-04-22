@@ -2,7 +2,7 @@
 	"name": "flutter-extension-thcbin",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -49,8 +49,11 @@
         "marcelovelasquez.flutter-tree", 
 		"alexisvt.flutter-snippets", 
 		"bendixma.dart-data-class-generator", 
+		"donjayamanne.githistory", 
 		"eamodio.gitlens", 
         "GitHub.vscode-pull-request-github", 
+		"kisstkondoros.vscode-gutter-preview", 
+		"quicktype.quicktype", 
 		"jeroen-meijer.pubspec-assist", 
 		"everettjf.pubspec-dependency-search", 
 		"gruntfuggly.todo-tree", 
@@ -69,6 +72,7 @@
         "jock.svg", 
         "SimonSiefke.svg-preview", 
         "VisualStudioExptTeam.vscodeintellicode",
+        "deerawan.vscode-faker",
         "tomoki1207.pdf", 
         "Equinusocio.vsc-material-theme", 
         "PKief.material-icon-theme"

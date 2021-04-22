@@ -22,4 +22,7 @@
 - Add extensions (bloc)
 
 ## [1.4.0]
-- Add feew new extensions
+- Add few new extensions
+
+## [1.5.0]
+- Add new extensions
