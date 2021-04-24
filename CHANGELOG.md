@@ -26,3 +26,6 @@
 
 ## [1.5.0]
 - Add new extensions
+
+## [1.5.1]
+- Update extension pack

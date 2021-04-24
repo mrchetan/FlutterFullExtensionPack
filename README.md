@@ -97,7 +97,7 @@ This extension pack includes the following extensions:
 
 * [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display pdf file in VSCode..
 
-* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code.
+* [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme) - The official community maintained Material Theme with 'legacy' color schemes you love!
 
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 
