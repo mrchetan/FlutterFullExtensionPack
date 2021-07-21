@@ -1,8 +1,8 @@
 {
 	"name": "flutter-extension-pack",
-	"displayName": "Flutter Full Extension Pack",
+	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
