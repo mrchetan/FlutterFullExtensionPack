@@ -1,12 +1,12 @@
-## Flutter Extension Pack by Chetan Bhalothia
+## Flutter Extension Pack by Mr Chetan
 
-A Recommended collection for Flutter development on VS Code by Chetan Bhalothia.
+A Recommended collection for Flutter development on VS Code by Mr Chetan (Chetan Bhalothia).
 
 VS Code extension pack help to create a your Flutter app using Dart code.
 
 You not need to install all extensions one by one just this extension pack for Flutter development.
 
-This Extension combination of 2 Extension Pack [THCBin Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.02thcbin-flutter), [THCBin Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=techthatmatters.00thcbin-recommended)
+This Extension combination of 2 Extension Pack [Mr Chetan Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.flutter), [Mr Chetan Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.recommended)
 
 
 ---
@@ -14,7 +14,7 @@ This Extension combination of 2 Extension Pack [THCBin Flutter Extension Pack](h
 # Installation
 
 - Open VS Code and click on Extensions Icon in the Activity Bar.
-- Type **flutter-extension-thcbin**
+- Type **mrchetan.flutter-extension-pack**
 - Install the Extension Pack.
 ---
 
@@ -115,7 +115,7 @@ This extension pack includes the following extensions:
 
 * [Read Flutter Documentation](https://flutter.dev/docs)
 * [Dart Packegs Library](https://pub.dev/)
-* [Contact THCBin](https://thcb.in/)
+* [Contact Mr Chetan](https://mrchetan.com/)
 ### Useful Commands
 
 * `flutter create <AppName>` 
@@ -127,4 +127,4 @@ This extension pack includes the following extensions:
 **Enjoy Chetan's Extension Pack!**
 
 ## License
-<a href="https://github.com/techthatmatters/flutter-extension-thcbin/blob/master/LICENSE">Click here</a>
+<a href="https://github.com/mrchetan/FlutterFullExtensionPack/blob/master/LICENSE">Click here</a>

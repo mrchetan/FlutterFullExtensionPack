@@ -1,12 +1,12 @@
 {
-	"name": "flutter-extension-thcbin",
-	"displayName": "Flutter Extension Pack",
+	"name": "flutter-extension-pack",
+	"displayName": "Flutter Full Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "1.5.1",
-	"publisher": "techthatmatters",
+	"version": "1.0.1",
+	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/techthatmatters/flutter-extension-thcbin"
+		"url": "https://github.com/mrchetan/FlutterFullExtensionPack"
 	},
 	"engines": {
 		"vscode": "^1.26.0"
