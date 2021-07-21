@@ -6,7 +6,10 @@ VS Code extension pack help to create a your Flutter app using Dart code.
 
 You not need to install all extensions one by one just this extension pack for Flutter development.
 
-This Extension combination of 2 Extension Pack [Mr Chetan Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.flutter), [Mr Chetan Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.recommended)
+This Extension combination of 3 Extension Pack 
+* [Mr Chetan Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.flutter)
+* [Mr Chetan Always On Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.alwayson)
+* [Mr Chetan Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.recommended)
 
 
 ---
@@ -46,22 +49,32 @@ This extension pack includes the following extensions:
 
 * [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=bendixma.dart-data-class-generator) - Create dart data classes easily, fast and without writing boilerplate or running code generation.
 
-* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
-
-* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
-
-* [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request and Issue Provider for GitHub.
-
-* [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover
-
-* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
-
 * [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) - Easily add and update dependencies to your Dart and Flutter project.
 
 * [Pubspec Dependency Search](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search) - Easy search dependency name in dart packages site for flutter developers.
 * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=everettjf.gruntfuggly.todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view.
 
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes syntax support.
+
+
+
+* [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Your AI pair programmer
+
+* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
+
+* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+
+* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
+
+* [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request and Issue Provider for GitHub.
+
+* [Notepad++ keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings) - Popular Notepad++ keybindings for Visual Studio Code.
+
+* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code
+
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
+
+
 
 
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
@@ -72,15 +85,26 @@ This extension pack includes the following extensions:
 
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
 
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
+
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
 
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 
-* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
+
+* [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover
+
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
 
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier.
+
+* [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
+
+* [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
+
+* [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
 
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code.
 
@@ -94,12 +118,7 @@ This extension pack includes the following extensions:
 
 * [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more
 
-
 * [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display pdf file in VSCode..
-
-* [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme) - The official community maintained Material Theme with 'legacy' color schemes you love!
-
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 
 <br>
 
