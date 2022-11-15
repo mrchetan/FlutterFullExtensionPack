@@ -1,4 +1,7 @@
 # Change Log
+
+## [1.3.0]
+- Remove Deprecated extension.
 ## [1.2.0]
 - Replace Extensions with Extension pack
 ## [1.1.0]
