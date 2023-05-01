@@ -2,7 +2,7 @@
 	"name": "flutter-extension-pack",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "1.3.0",
+	"version": "1.4.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -78,6 +78,7 @@
         "moyu.snapcode", 
         "jock.svg", 
         "SimonSiefke.svg-preview", 
+		"pflannery.vscode-versionlens",
         "VisualStudioExptTeam.vscodeintellicode",
 		"deerawan.vscode-faker",
         "tomoki1207.pdf"

@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.4.0]
+
+- Add Extension  `Version Lens`
+
 ## [1.3.0]
 - Remove Deprecated extension.
 ## [1.2.0]
