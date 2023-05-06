@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.5.0]
+- Add Extension  `GitHub Repositories`, `Remote Repositories`, `AWS Toolkit`, `GitHub Copilot Voice`, `GitHub Actions`, `GitHub Codespaces`, `GitHub Copilot Labs`
+
 ## [1.4.0]
 
 - Add Extension  `Version Lens`

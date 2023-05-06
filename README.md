@@ -29,6 +29,8 @@ This extension pack includes the following extensions:
 
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - Flutter support and debugger for Visual Studio Code.
 
+* [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) - Including support for CodeWhisperer, CodeCatalyst, Lambda, S3, CloudWatch Logs, and many other services
+
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
 
 * [bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) - Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.
@@ -56,17 +58,27 @@ This extension pack includes the following extensions:
 
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes syntax support.
 
-
-
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
 
 * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 
 * [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Your AI pair programmer
 
+* [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub) - A voice assistant for VS Code
+
+* [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) - GitHub Actions workflows and runs for github.com hosted repositories in VS Code
+
+* [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - Your instant dev environment
+
+* [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs) - Experimental features for GitHub Copilot
+
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
 
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+
+* [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit any GitHub repository
+
+* [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories) - Remotely browse and edit git repositories
 
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
 
