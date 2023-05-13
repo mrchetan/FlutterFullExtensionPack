@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.6.0]
+
+- Add Extension  `GitHub Copilot Chat`
+
 ## [1.5.0]
 - Add Extension  `GitHub Repositories`, `Remote Repositories`, `AWS Toolkit`, `GitHub Copilot Voice`, `GitHub Actions`, `GitHub Codespaces`, `GitHub Copilot Labs`
 

@@ -2,7 +2,7 @@
 	"name": "flutter-extension-pack",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "1.5.0",
+	"version": "1.6.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -59,6 +59,7 @@
 		"github.vscode-github-actions",
 		"GitHub.codespaces", 
 		"GitHub.copilot", 
+		"GitHub.copilot-chat", 
 		"GitHub.heygithub",
 		"GitHub.copilot-labs",
 		"donjayamanne.githistory", 
