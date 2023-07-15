@@ -6,7 +6,7 @@ VS Code extension pack help to create a your Flutter app using Dart code.
 
 You not need to install all extensions one by one just this extension pack for Flutter development.
 
-This Extension combination of 3 Extension Pack 
+This Extension combination of 3 Extension Pack
 * [Mr Chetan Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.flutter)
 * [Mr Chetan Always On Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.alwayson)
 * [Mr Chetan Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.recommended)
@@ -98,6 +98,8 @@ This extension pack includes the following extensions:
 
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!.
 
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmark) - Mark lines and jump to them
+
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
@@ -148,7 +150,7 @@ This extension pack includes the following extensions:
 * [Contact Mr Chetan](https://mrchetan.com/)
 ### Useful Commands
 
-* `flutter create <AppName>` 
+* `flutter create <AppName>`
 * `flutter doctor`
 * `flutter devices`
 * `flutter run`
