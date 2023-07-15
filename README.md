@@ -98,7 +98,7 @@ This extension pack includes the following extensions:
 
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!.
 
-* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmark) - Mark lines and jump to them
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them
 
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 

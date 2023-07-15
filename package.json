@@ -2,7 +2,7 @@
 	"name": "flutter-extension-pack",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "1.7.0",
+	"version": "1.7.1",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -74,7 +74,7 @@
 		"formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
 		"aaron-bond.better-comments",
-		"alefragnani.Bookmark",
+		"alefragnani.Bookmarks",
 		"kisstkondoros.vscode-gutter-preview",
 		"quicktype.quicktype",
         "naumovs.color-highlight",
