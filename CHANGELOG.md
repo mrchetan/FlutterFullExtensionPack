@@ -1,5 +1,8 @@
 # Change Log
 
+## [2.0.0]
+- Remove extensions `Notepad++ keymap`, `GitHub Copilot Voice` and `GitHub Copilot Labs`
+
 ## [1.7.0]
 
 - Add Extension  `Bookmarks`
