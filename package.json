@@ -2,7 +2,7 @@
 	"name": "flutter-extension-pack",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -66,7 +66,7 @@
 		"ms-vscode.remote-repositories",
         "mhutchie.git-graph",
         "GitHub.vscode-pull-request-github",
-        "Equinusocio.vsc-material-theme",
+        "t3dotgg.vsc-material-theme-but-i-wont-sue-you",
         "PKief.material-icon-theme",
 		"formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
