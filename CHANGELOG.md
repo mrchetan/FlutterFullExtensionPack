@@ -1,5 +1,8 @@
 # Change Log
 
+## [3.0.0]
+- Remove extensions `CSS Peek`
+
 ## [2.0.0]
 - Remove extensions `Notepad++ keymap`, `GitHub Copilot Voice` and `GitHub Copilot Labs`
 

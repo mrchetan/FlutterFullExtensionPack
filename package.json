@@ -2,7 +2,7 @@
 	"name": "flutter-extension-pack",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "2.1.0",
+	"version": "3.0.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -75,7 +75,6 @@
 		"kisstkondoros.vscode-gutter-preview",
 		"quicktype.quicktype",
         "naumovs.color-highlight",
-        "pranaygp.vscode-css-peek",
         "usernamehw.errorlens",
         "ritwickdey.LiveServer",
         "esbenp.prettier-vscode",

@@ -96,8 +96,6 @@ This extension pack includes the following extensions:
 
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 
-* [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
-
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 
 
