@@ -1,6 +1,9 @@
 # Change Log
 
 ## [3.0.0]
+- Update Extension engine
+
+## [3.0.0]
 - Remove extensions `CSS Peek`
 
 ## [2.0.0]

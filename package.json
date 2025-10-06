@@ -2,14 +2,14 @@
 	"name": "flutter-extension-pack",
 	"displayName": "Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development using Dart",
-	"version": "3.0.0",
+	"version": "3.1.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mrchetan/FlutterFullExtensionPack"
 	},
 	"engines": {
-		"vscode": "^1.26.0"
+		"vscode": "^1.104.0"
 	},
 	"icon": "icon.png",
 	"galleryBanner": {
